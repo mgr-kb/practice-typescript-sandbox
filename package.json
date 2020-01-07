@@ -1,0 +1,24 @@
+{
+  "name": "practice-typescript-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgr-kb/practice-typescript-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgr-kb/practice-typescript-sandbox/issues"
+  },
+  "homepage": "https://github.com/mgr-kb/practice-typescript-sandbox#readme",
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
+}
