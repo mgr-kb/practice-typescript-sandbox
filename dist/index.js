@@ -1,4 +1,4 @@
 "use strict";
-var a = "hoge";
+const a = "hoge";
 console.log(typeof a);
 console.log(a);
